@@ -1,0 +1,12 @@
+{
+district : "",
+location : "",
+stels : "",
+partner : "",
+description : "",
+check : "",
+prize : "",
+prize_description : "",
+punishment : "",
+punishment_description : ""
+    }

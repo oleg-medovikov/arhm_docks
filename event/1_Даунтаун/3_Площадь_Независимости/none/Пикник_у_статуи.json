@@ -1,6 +1,6 @@
 {
 "horror" : [1]
-"partner" : None,
+"partner" : "None",
 "description" : "Дружелюбная парочка приглашает тебя перекусить вместе с ними.",
 "check" : {"luck":"0"},
 "prize" : {"mind":"+1","body":"+1"},
